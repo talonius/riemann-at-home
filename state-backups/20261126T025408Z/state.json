@@ -1,0 +1,104 @@
+{
+ "prs": {
+  "1": {
+   "path": "submissions/titojankowski/fe4725a62d70089e.json",
+   "seen_sha": "2de2262230eec38cd543cb037231465babc83b3e",
+   "seen_at": "2026-11-26T00:21:08Z",
+   "accepted_sha": "2de2262230eec38cd543cb037231465babc83b3e",
+   "last_comment": null
+  },
+  "2": {
+   "path": "submissions/muellerdominikalexander-gif/3627979f33ed964d.json",
+   "seen_sha": "20124bd90730419fb85524a6debc589a74be57b7",
+   "seen_at": "2026-11-26T02:46:51Z",
+   "accepted_sha": "20124bd90730419fb85524a6debc589a74be57b7",
+   "last_comment": null
+  },
+  "6": {
+   "path": "submissions/luvchurchill/3d07a4cce07e1d91.json",
+   "seen_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "seen_at": "2026-11-22T06:16:49Z",
+   "accepted_sha": "6713fb7239dd18c4aad2869c8c4fdfec865d2231",
+   "last_comment": null
+  },
+  "9": {
+   "path": "submissions/jasonhansel/ce3b56ad90e92a5e.json",
+   "seen_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536",
+   "seen_at": "2026-11-23T09:50:54Z",
+   "last_comment": null,
+   "accepted_sha": "795012368d38b6032dfd7f6ac5354dd5fc0aa536"
+  },
+  "10": {
+   "path": "submissions/framiere/0389b5177ba4ba89.json",
+   "seen_sha": "b49369e866e8fec724efdd677ba81119881809c0",
+   "seen_at": "2026-11-25T20:27:01Z",
+   "accepted_sha": "b49369e866e8fec724efdd677ba81119881809c0",
+   "last_comment": null
+  },
+  "11": {
+   "path": "submissions/Genbox/0ffe19f477b8322f.json",
+   "seen_sha": "ae4e4b2efd4294e2e018c36a6c724222e853dfa3",
+   "seen_at": "2026-11-26T02:54:08Z",
+   "accepted_sha": "ae4e4b2efd4294e2e018c36a6c724222e853dfa3",
+   "last_comment": null
+  },
+  "13": {
+   "path": "submissions/milhouse1337/b4e604bd6fb4fc81.json",
+   "seen_sha": "eff715f068bea9b45958be50a4564743d9fb235c",
+   "seen_at": "2026-11-26T02:54:08Z",
+   "accepted_sha": "eff715f068bea9b45958be50a4564743d9fb235c",
+   "last_comment": null
+  },
+  "16": {
+   "path": "submissions/tgragnato/df413341ab8f5ce9.json",
+   "seen_sha": "e0b62cf01a39fb5c0321cc711131c927c18a8f89",
+   "seen_at": "2026-11-26T02:46:51Z",
+   "last_comment": null,
+   "accepted_sha": "e0b62cf01a39fb5c0321cc711131c927c18a8f89"
+  },
+  "17": {
+   "path": "submissions/ericpruitt/d8bfa2f6cd0c06ca.json",
+   "seen_sha": "b94d5089afc566f6d53bc5582ac8693311272b52",
+   "seen_at": "2026-11-23T17:46:01Z",
+   "accepted_sha": "b94d5089afc566f6d53bc5582ac8693311272b52",
+   "last_comment": null
+  },
+  "20": {
+   "path": "submissions/sanzgiri/fe09b3c53f16566b.json",
+   "seen_sha": "70410d8c5cd1a1c50e9815529b519db9a2a2fa02",
+   "seen_at": "2026-11-26T02:46:51Z",
+   "accepted_sha": "70410d8c5cd1a1c50e9815529b519db9a2a2fa02",
+   "last_comment": null
+  },
+  "21": {
+   "path": "submissions/Aerlinger/f909ffdb49971e82.json",
+   "seen_sha": "206d2ec743383e1aef21b8b0fd3750d3aa06a188",
+   "seen_at": "2026-11-26T02:54:08Z",
+   "accepted_sha": "206d2ec743383e1aef21b8b0fd3750d3aa06a188",
+   "last_comment": null
+  },
+  "26": {
+   "path": "submissions/titojankowski/14d5b70da3f18828.json",
+   "seen_sha": "33b82e06c8486f4d01052e81983d851bfb4d7a75",
+   "seen_at": "2026-11-26T01:48:37Z",
+   "accepted_sha": "33b82e06c8486f4d01052e81983d851bfb4d7a75",
+   "last_comment": null
+  },
+  "27": {
+   "path": "submissions/VoX/21574adbd79aa67c.json",
+   "seen_sha": "e1370a8c22668ab81dc50762486039ff7764adce",
+   "seen_at": "2026-11-26T02:17:43Z",
+   "accepted_sha": "e1370a8c22668ab81dc50762486039ff7764adce",
+   "last_comment": null
+  },
+  "28": {
+   "path": "submissions/derek-blanchette/6c869475c0945432.json",
+   "seen_sha": "61bbc68e2bc62c7b7c5b6f8cdeabd898bc098ccc",
+   "seen_at": "2026-11-26T02:39:34Z",
+   "accepted_sha": "61bbc68e2bc62c7b7c5b6f8cdeabd898bc098ccc",
+   "last_comment": null
+  }
+ },
+ "last_publish": "2026-11-26T02:54:08Z",
+ "published_hash": "7a82fa4714d059a7df136dffaa4a2a4fcc585ad61bb6e3dc7beebe6c30b81b90"
+}

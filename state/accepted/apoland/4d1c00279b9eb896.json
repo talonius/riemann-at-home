@@ -1,0 +1,26 @@
+{
+  "format": "rah/build/1",
+  "tool": "riemann-at-home 1.1.0",
+  "proof": "300k",
+  "source_commit": "72fead102f663d5c7a407964a13dc0cf9d977207",
+  "toolchain": "leanprover/lean4:v4.35.0",
+  "mathlib_rev": "56a005855ea17e0b0958f73ec801ae140b0a1679",
+  "build_folder": "/opt/riemann-at-home/grh",
+  "build_id": "4d1c00279b9eb896",
+  "machine": {
+    "os": "Linux 7.0.0-44-generic",
+    "arch": "x86_64",
+    "cpu": "QEMU Virtual CPU version 2.5+",
+    "cores": 32
+  },
+  "started": "2026-11-26T03:32:54Z",
+  "recorded": "2026-11-26T04:13:25Z",
+  "busy_seconds": 2431,
+  "modules_compiled": 637,
+  "bitmap_b64": "H4sIAAAAAAAC//v/HwZ+/0cD9b9O/YNz9v8Hs/8C8c+jn2Eq/t/kaBBxvv7+/xp5FQYWBgaGhvsvvwMlrp/++zd/7ha2A/9PHQ4QYQEAqdasyGUAAAA=",
+  "olean_digest": "3d4eab3e0f5624ad8c0951dac1e23357d79aedf7e4135cbd437356a03e2532c5",
+  "whole_proof": false,
+  "axioms": null,
+  "final": false,
+  "display_name": "Andrew Poland"
+}

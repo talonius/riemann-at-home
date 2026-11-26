@@ -1,0 +1,62 @@
+{
+ "Fornax96": {
+  "whole": "2026-11-24T04:58:10Z",
+  "validated": "2026-11-25T00:38:19Z",
+  "hours": 15.9
+ },
+ "derek-blanchette": {
+  "whole": "2026-11-22T21:00:30Z",
+  "validated": "2026-11-23T03:46:38Z",
+  "hours": 18.7,
+  "whole_300k": "2026-11-26T02:35:37Z",
+  "hours_300k": 0.4
+ },
+ "ericpruitt": {
+  "whole": "2026-11-23T06:37:43Z",
+  "validated": "2026-11-23T10:20:07Z",
+  "hours": 9.0
+ },
+ "gebhardtr": {
+  "whole": "2026-11-25T05:29:18Z",
+  "validated": "2026-11-25T17:59:52Z",
+  "hours": 60.4
+ },
+ "jasonhansel": {
+  "whole": "2026-11-22T19:23:00Z",
+  "validated": "2026-11-23T07:24:55Z",
+  "hours": 11.4
+ },
+ "puellavulnerata": {
+  "whole": "2026-11-25T18:31:32Z",
+  "validated": "2026-11-25T20:14:34Z",
+  "hours": 13.9
+ },
+ "rib3ye": {
+  "whole": "2026-11-24T02:09:34Z",
+  "validated": "2026-11-25T04:32:20Z",
+  "hours": 48.6
+ },
+ "sanzgiri": {
+  "whole": "2026-11-24T22:57:31Z",
+  "hours": 41.0
+ },
+ "titojankowski": {
+  "whole": "2026-11-24T11:55:23Z",
+  "hours": 64.3,
+  "whole_300k": "2026-11-26T01:45:30Z",
+  "hours_300k": 0.2
+ },
+ "ununhexium": {
+  "whole": "2026-11-24T17:07:43Z",
+  "hours": 57.5
+ },
+ "xangma": {
+  "whole": "2026-11-22T19:20:57Z",
+  "validated": "2026-11-25T17:18:33Z",
+  "hours": 16.4
+ },
+ "VoX": {
+  "whole_300k": "2026-11-26T02:17:31Z",
+  "hours_300k": 0.5
+ }
+}
